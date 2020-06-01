@@ -1,2 +1,6 @@
 # equations
-Project where we solve quadratic and linear equations
+Project where we solve 
+ * linear
+ * quadratic
+ 
+ equations
